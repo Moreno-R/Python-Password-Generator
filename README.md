@@ -18,7 +18,7 @@ LIBRARY IMPORT: 📚📚
 -   String
 
 
-MINIMUM CODE REQUIREMENTS BY DEFUALT: 🧑‍💻
+MINIMUM CODE REQUIREMENTS BY DEFUALT: 🧑‍💻📖
 
 
 -  Minimum length of the password :    12
