@@ -1,4 +1,4 @@
-# Python Password Generator🐍
+# 🐍 Python Password Generator
 1st Python Project
 
 
@@ -34,7 +34,7 @@ MINIMUM CODE REQUIREMENTS BY DEFUALT: 🧑‍💻
 HOW TO USE:   💻🚥❔
 1.	Download python lastest version :  https://www.python.org/
 2.	Complete Python set up on your computer
-3.	Save the code provided in this respository to your computer (makesure you remember the exact location).
+3.	Save the code provided in this respository to your computer (make sure you remember the exact location).
 6.	Click your Windows "start" buttom and type "IDLE". This should find the IDLE Python program already installed in your computer. Open Program.
 7.	A shell window should pop-up on your screen. Click "file" on the top left corner of window.
 8.	Select the second option : "open..."
