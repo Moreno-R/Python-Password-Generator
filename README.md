@@ -33,16 +33,16 @@ MINIMUM CODE REQUIREMENTS BY DEFUALT: 🧑‍💻
 
 HOW TO USE:   💻🚥❔
 1.	Download python lastest version :  https://www.python.org/
-2.	Complete Python set up on your computer 
-3.	Name your file and save it in "py" format.  For example: passwordgen.py
-4.	Save the file to your computer (makesure you remember the exact location)
-5.	Click your Windows "start" buttom and type "IDLE". This should find the IDLE Python program already installed in your computer. Open Program.
-6.	A shell window should pop-up on your screen. Click "file" on the top left corner of window.
-7.	Select the second option : "open..."
-8.	Find the file containing the code you've previously saved and click "open" 
-9.	A new window should pop-up containing the code for the Password Generator.
-10.	Select the "run" option located on top of the window. 
-11.	Click "run module" option
-12.	You will see a new window asking : "Please enter password length: "
-13.	Enter the desired password length. For example 14 . click Enter
-14.	You should see a new line containing your new password!
+2.	Complete Python set up on your computer
+3.	Save the code provided in this respository to your computer (makesure you remember the exact location).
+6.	Click your Windows "start" buttom and type "IDLE". This should find the IDLE Python program already installed in your computer. Open Program.
+7.	A shell window should pop-up on your screen. Click "file" on the top left corner of window.
+8.	Select the second option : "open..."
+9.	Find the file containing the code (main.py) that you've previously saved and click "open" 
+10.	A new window should pop-up containing the code for the Password Generator.
+11.	Select the "run" option located on top of the window. 
+12.	Click "run module" option
+13.	You will see a new window asking : "Please enter password length: "
+14.	Enter the desired password length. For example: 14 .
+15.	Click "Enter"
+16.	You should see a new line containing your new password!
