@@ -7,7 +7,7 @@ import string
 try:
     password_length = int(input("Please enter password length: "))
 
-    if password_length >= 12:
+    if password_length >= 4:
 
         # Special characters
         special = secrets.choice(string.punctuation)
@@ -47,7 +47,7 @@ try:
         print(password)
 
     else:
-        print("Please enter a number greater than or equal to 12")
+        print("Please enter a number greater than or equal to 4")
 
 
 # Except Branch
