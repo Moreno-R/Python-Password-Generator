@@ -31,9 +31,8 @@ MINIMUM CODE REQUIREMENTS BY DEFUALT: 🧑‍💻📖
 -  Minimum special characters in the password	: 1
 
 HOW TO USE:   💻🚥❔
-1.	Download python lastest version :  https://www.python.org/
-2.	Complete Python set up on your computer
-3.	Save the code provided in this respository to your computer (make sure you remember the exact location).
-4.	Run the script!  
+
+1.	Save the code provided in this respository to your computer (make sure you remember the exact location).
+2.	Run the script! 
 
 
