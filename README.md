@@ -20,7 +20,7 @@ LIBRARY IMPORT: 📚📚
 MINIMUM CODE REQUIREMENTS BY DEFUALT: 🧑‍💻📖
 
 
--  Minimum length of the password :    3
+-  Minimum length of the password :    4
 
 -  Minimum upper-case characters required in password ;   1
 
