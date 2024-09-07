@@ -53,5 +53,3 @@ try:
 # Except Branch
 except:
     print("Please enter a valid number")
-    password_length = int(input("Please enter password length: "))
-    
