@@ -32,7 +32,7 @@ MINIMUM CODE REQUIREMENTS BY DEFUALT: 🧑‍💻📖
 
 HOW TO USE:   💻🚥❔
 
-1.	Save the code provided in this respository to your computer (make sure you remember the exact location).
+1.	Save the code provided in this respository.
 2.	Run the script! 
 
 
